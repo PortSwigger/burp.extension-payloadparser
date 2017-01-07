@@ -1,0 +1,10 @@
+Uuid: 8e429ecc01f446e29896b494f0487c25
+ExtensionType: 2
+Name: Payload Parser
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author:  James Lester
+ShortDescription: Generates payload lists based on a set of characters that are sanitized.
+EntryPoint: PayloadParser.py
