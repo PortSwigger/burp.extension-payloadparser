@@ -1,6 +1,7 @@
 Uuid: 8e429ecc01f446e29896b494f0487c25
 ExtensionType: 2
 Name: Payload Parser
+RepoName: payload-parser
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
